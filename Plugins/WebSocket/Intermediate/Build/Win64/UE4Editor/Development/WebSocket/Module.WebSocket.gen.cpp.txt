@@ -1,0 +1,167 @@
+D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Definitions.WebSocket.h
+D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Inc\WebSocket\WebSocket.init.gen.cpp
+I:\unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+I:\unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Inc\WebSocket\WebSocketBase.gen.cpp
+D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Source\WebSocket/Public/WebSocketBase.h
+I:\unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+I:\unreal\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+I:\unreal\UE_4.22\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+I:\unreal\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+d:\unrealproject\simplefpstemplate-master\plugins\websocket\intermediate\build\win64\ue4editor\inc\websocket\WebSocketBase.generated.h
+D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Inc\WebSocket\WebSocketBlueprintLibrary.gen.cpp
+D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Source\WebSocket/Public/WebSocketBlueprintLibrary.h
+I:\unreal\UE_4.22\Engine\Source\Runtime/JsonUtilities/Public/JsonObjectConverter.h
+i:\unreal\ue_4.22\engine\source\runtime\jsonutilities\public\JsonObjectWrapper.h
+I:\unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities\JsonObjectWrapper.generated.h
+I:\unreal\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+d:\unrealproject\simplefpstemplate-master\plugins\websocket\intermediate\build\win64\ue4editor\inc\websocket\WebSocketBlueprintLibrary.generated.h
+D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Inc\WebSocket\WebSocketContext.gen.cpp
+D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Source\WebSocket/Private/WebSocketContext.h
+I:\unreal\UE_4.22\Engine\Source\Runtime\Core\Public\Windows\PreWindowsApi.h
+D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Source\WebSocket\ThirdParty\include\Win64\libwebsockets.h
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdarg
+d:\unrealproject\simplefpstemplate-master\plugins\websocket\source\websocket\thirdparty\include\win64\lws_config.h
+I:\Windows Kits\10\include\10.0.16299.0\um\winsock2.h
+I:\Windows Kits\10\include\10.0.16299.0\um\windows.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\sdkddkver.h
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\windef.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\minwindef.h
+I:\Windows Kits\10\include\10.0.16299.0\um\winnt.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\kernelspecs.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\basetsd.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+i:\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+i:\windows kits\10\include\10.0.16299.0\shared\poppack.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+i:\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+i:\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+i:\windows kits\10\include\10.0.16299.0\shared\poppack.h
+i:\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+i:\windows kits\10\include\10.0.16299.0\shared\poppack.h
+i:\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+i:\windows kits\10\include\10.0.16299.0\shared\poppack.h
+i:\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+i:\windows kits\10\include\10.0.16299.0\shared\poppack.h
+i:\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+i:\windows kits\10\include\10.0.16299.0\shared\poppack.h
+i:\windows kits\10\include\10.0.16299.0\shared\poppack.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\apiset.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\ktmtypes.h
+I:\Windows Kits\10\include\10.0.16299.0\um\winbase.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\apisetcconv.h
+I:\Windows Kits\10\include\10.0.16299.0\um\minwinbase.h
+I:\Windows Kits\10\include\10.0.16299.0\um\processenv.h
+I:\Windows Kits\10\include\10.0.16299.0\um\fileapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\debugapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\utilapiset.h
+I:\Windows Kits\10\include\10.0.16299.0\um\handleapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\errhandlingapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\fibersapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\namedpipeapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\profileapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\heapapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\ioapiset.h
+I:\Windows Kits\10\include\10.0.16299.0\um\synchapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\interlockedapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\processthreadsapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\sysinfoapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\memoryapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\enclaveapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\threadpoollegacyapiset.h
+I:\Windows Kits\10\include\10.0.16299.0\um\threadpoolapiset.h
+I:\Windows Kits\10\include\10.0.16299.0\um\jobapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\jobapi2.h
+I:\Windows Kits\10\include\10.0.16299.0\um\wow64apiset.h
+I:\Windows Kits\10\include\10.0.16299.0\um\libloaderapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\securitybaseapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\namespaceapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\systemtopologyapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\processtopologyapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\securityappcontainer.h
+I:\Windows Kits\10\include\10.0.16299.0\um\realtimeapiset.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\winerror.h
+I:\Windows Kits\10\include\10.0.16299.0\um\timezoneapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\wingdi.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+I:\Windows Kits\10\include\10.0.16299.0\um\winuser.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\tvout.h
+I:\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+I:\Windows Kits\10\include\10.0.16299.0\um\datetimeapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\stringapiset.h
+I:\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+I:\Windows Kits\10\include\10.0.16299.0\um\wincon.h
+I:\Windows Kits\10\include\10.0.16299.0\um\consoleapi.h
+I:\Windows Kits\10\include\10.0.16299.0\um\winver.h
+I:\Windows Kits\10\include\10.0.16299.0\um\verrsrc.h
+I:\Windows Kits\10\include\10.0.16299.0\um\winreg.h
+I:\Windows Kits\10\include\10.0.16299.0\um\reason.h
+I:\Windows Kits\10\include\10.0.16299.0\um\winnetwk.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\wnnc.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\stralign.h
+I:\Windows Kits\10\include\10.0.16299.0\um\winsvc.h
+I:\Windows Kits\10\include\10.0.16299.0\um\mcx.h
+I:\Windows Kits\10\include\10.0.16299.0\um\imm.h
+I:\Windows Kits\10\include\10.0.16299.0\um\ime_cmodes.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\ws2def.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\inaddr.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\qos.h
+I:\Windows Kits\10\include\10.0.16299.0\um\ws2tcpip.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\ws2ipdef.h
+I:\Windows Kits\10\include\10.0.16299.0\shared\in6addr.h
+I:\Windows Kits\10\include\10.0.16299.0\ucrt\fcntl.h
+I:\unreal\UE_4.22\Engine\Source\Runtime\Core\Public\Windows\PostWindowsApi.h
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+I:\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+I:\VisualStudioIDE\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+I:\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+d:\unrealproject\simplefpstemplate-master\plugins\websocket\intermediate\build\win64\ue4editor\inc\websocket\WebSocketContext.generated.h

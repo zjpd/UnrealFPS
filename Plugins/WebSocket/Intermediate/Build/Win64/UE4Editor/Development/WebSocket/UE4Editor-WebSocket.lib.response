@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-WebSocket.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unrealProject\SimpleFPSTemplate-master\Intermediate\Build\Win64\FPSGameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Module.WebSocket.1_of_2.cpp.obj"
+"D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Module.WebSocket.2_of_2.cpp.obj"
+"D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Module.WebSocket.gen.cpp.obj"
+"D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Default.rc2.res"
+/OUT:"D:\unrealProject\SimpleFPSTemplate-master\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\UE4Editor-WebSocket.lib"
+/INCLUDE:IMPLEMENT_MODULE_WebSocket
